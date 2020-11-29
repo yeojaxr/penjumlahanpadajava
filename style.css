@@ -1,0 +1,34 @@
+body{
+    text-align: center;
+    margin-top: 100px;
+    background-size: 100% 100%;
+}
+.span input[type="number"]{
+    width: 150px;
+    height: 150px;
+    font-size: 50px;
+    border-color: orange;
+    border-width: 5px;
+}
+#simbol{
+    font-size: 50px;
+    color: orange;
+}
+span{
+    margin: 20px;
+}
+#jumlah input[type="submit"]{
+    margin-top: 25px;
+    color: aliceblue;
+    background-color: orange;
+    width: 100px;
+    height: 50px;
+}
+#tekshasil{
+    font-size: 30px;
+    margin-top: 20px;
+}
+hasil{
+    font-size: 70px;
+    color: orange;
+}
